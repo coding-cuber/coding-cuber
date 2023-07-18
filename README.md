@@ -1,5 +1,5 @@
 # [William Herring](https://william-herring.github.io)
-- Melbourne, Australia.
+- Melbourne, Australia
 - Python
 - Flutter
 - Django
